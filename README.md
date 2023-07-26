@@ -1,4 +1,4 @@
-Welcome to anikanth-Reddy's java Junction, your one-stop destination for an incredible web application built using Spring Boot! This repository showcases a feature-packed and highly efficient web application that harnesses the power of Spring Boot's rapid development capabilities.
+Welcome to Manikanth-Reddy's java Junction, your one-stop destination for an incredible web application built using Spring Boot! This repository showcases a feature-packed and highly efficient web application that harnesses the power of Spring Boot's rapid development capabilities.
 
 Dive into the world of Spring Boot's simplicity and flexibility as we explore how it streamlines the development process. From seamless configuration to built-in security features, this web application leverages the best of Spring Boot to deliver a top-notch user experience.
 
